@@ -2,13 +2,13 @@ Hi.
 
 My name is Dylan.  I've recently begun my journey as a software developer, and I'm loving it.  I enjoy creating things, fixing things, breaking things, and solving things.  
 
-🌱 I’m currently learning ...
-C#
-Vue.js
-Python
-
-📫 How to reach me: ...
-email:  dylan@dylandove.com  LinkedIn:  https://www.linkedin.com/in/dylandove/
+🌱 I’m currently learning ...<br />
+C# <br/>
+Vue.js <br/>
+Python <br/>
+</br>
+📫 How to reach me: ...<br/>
+email:  dylan@dylandove.com <br/> LinkedIn:  https://www.linkedin.com/in/dylandove/
 <!--
 **dylanjdove/dylanjdove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
