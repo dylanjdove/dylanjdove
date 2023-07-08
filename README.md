@@ -1,12 +1,7 @@
 Hi.
 
-My name is Dylan.  I've recently begun my journey as a software developer, and I'm loving it.  I enjoy creating things, fixing things, breaking things, and solving things.  
+My name is Dylan.  Most of my repos are for simple applications that solve a need I have where the existing options won't work or require a costly subscription for a software I won't use enough to justify the price.
 
-🌱 I’m currently learning ...<br />
-C# <br/>
-Vue.js <br/>
-Python <br/>
-</br>
 📫 How to reach me: ...<br/>
 email:  dylan@dylandove.com <br/> LinkedIn:  https://www.linkedin.com/in/dylandove/
 <!--
