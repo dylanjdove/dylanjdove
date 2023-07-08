@@ -2,6 +2,8 @@ Hi.
 
 My name is Dylan.  Most of my repos are for simple applications that solve a need I have where the existing options won't work or require a costly subscription for a software I won't use enough to justify the price.
 
+The majority of my public repos are from when I was learning, and I've kept them for posterity.
+
 📫 How to reach me: ...<br/>
 email:  dylan@dylandove.com <br/> LinkedIn:  https://www.linkedin.com/in/dylandove/
 <!--
